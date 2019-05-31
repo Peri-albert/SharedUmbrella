@@ -1,1 +1,2 @@
 # shared_umbrella
+共享雨伞的php后端实现，使用CodeIgniter编写，并且自行实现了对mqtt协议的封装
